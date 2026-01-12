@@ -181,6 +181,12 @@ Policy impact simulation using segments
 
 This project demonstrates that a Self-Organizing Map–based unsupervised framework, combined with macro-segmentation and semantic interpretation, provides a robust, explainable, and actionable approach to population segmentation. The methodology balances statistical rigor, interpretability, and practical utility, making it suitable for both academic research and real-world deployment.
 
+◦ Segmented customers into 4 meaningful life-stage groups using an unsupervised neural model, validated on 5K+ records with strong cluster separation.
+
+◦ Achieved ~95% neighborhood consistency in grouping similar customers and identified clear differences in age, experience, and family size across segments.
+
+◦ Applied the segmentation to new customers without retraining, enabling scalable targeting and profiling use cases.
+
 
 
 ◦ Leveraged a Self-Organizing Map (SOM)–based unsupervised segmentation model to identify 4 customer life-stage groups for targeted product positioning and personalization.
@@ -190,6 +196,7 @@ This project demonstrates that a Self-Organizing Map–based unsupervised framew
 ◦ Designed a scalable SOM segmentation pipeline applicable across retail, fintech, telecom, and SaaS markets for customer targeting, pricing, and retention analysis.
 
 Enjoy!
+
 
 
 
